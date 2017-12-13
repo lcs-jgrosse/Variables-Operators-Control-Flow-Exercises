@@ -70,7 +70,6 @@ var favouriteHobby = "Pingpong Ball jugler"
  */
 // Answer Question 4 below
 
-
 /*:
  ### Question 5
  
@@ -80,7 +79,7 @@ var favouriteHobby = "Pingpong Ball jugler"
  
  */
 // Answer Question 5 below
-
+let randomDemand = 1_000_000
 /*:
  ### Question 6
  
