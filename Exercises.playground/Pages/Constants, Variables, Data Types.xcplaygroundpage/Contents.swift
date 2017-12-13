@@ -50,8 +50,9 @@ let reportCardGrade = "89"
  
  */
 // Answer Question 2 below
-
-
+let myAge : Int = 16
+let otherAge : Double = 40.0
+let averageAge : Double = (Double(myAge) + otherAge) / 2
 /*:
  ### Question 3
  
