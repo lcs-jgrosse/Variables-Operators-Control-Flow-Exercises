@@ -69,7 +69,8 @@ var favouriteHobby = "Pingpong Ball jugler"
  Use multiple `print` statements below to answer this question.
  */
 // Answer Question 4 below
-
+print("Constants take less compiling space than variables")
+print("also they can't be changed by accident")
 /*:
  ### Question 5
  
